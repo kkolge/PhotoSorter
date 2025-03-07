@@ -1,0 +1,47 @@
+# Ignore compiled Python bytecode files
+*.pyc
+
+# Ignore Python cache directories
+__pycache__/
+
+# Ignore environment-specific settings
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Ignore log files
+*.log
+
+# Ignore unit test / coverage reports
+.coverage
+.pytest_cache/
+coverage.xml
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore Tkinter-specific files (if any)
+# Add any specific files or directories related to Tkinter here
+backup/
+Lib/
+reports/
+RFTS Trip - 2017/
+Scripts/
+build/
+dist/
+progress.json
+session.json
+
+# ignore pyinstaller specs file 
+main.spec
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history
+pyvenv.cfg
