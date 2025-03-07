@@ -15,7 +15,7 @@ We all click lots of photos from cell phone but cleaning up unwanted photos befo
 
 ### Installing
 
-git clone - 
+git clone - https://github.com/kkolge/PhotoSorter.git
 
 #### Create and activate virtual environment
 python -m venv venv
